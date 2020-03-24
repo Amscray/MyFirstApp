@@ -17,7 +17,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
-        android:id="@+id/play" 
+        android:id="@+id/play"
         android:layout_width="137dp"
         android:layout_height="140dp"
         android:src="@drawable/_ssbulogo"
